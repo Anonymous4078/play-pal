@@ -1,10 +1,10 @@
-# Game Mania
+# Play Pal
 
 ## Terms of Service
 
 By inviting and using our bot you automatically agree to our Terms of Service below.
 
-By accepting Game Mania("our", "we", "us") Terms of Service ("ToS") you agree that you've agreed to Discords ToS and meet every requirement mentioned there. You ("you", "your") also agree that you've read our Privacy Policy and agreed to it.
+By accepting Play Pal("our", "we", "us") Terms of Service ("ToS") you agree that you've agreed to Discords ToS and meet every requirement mentioned there. You ("you", "your") also agree that you've read our Privacy Policy and agreed to it.
 
 Rights to use our service
 
